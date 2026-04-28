@@ -42,6 +42,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Manufacturing
 
 [Preferences]
 PrefsVaultGUID=
@@ -97,6 +98,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJIIVGOA
+
+[ProjectVariant1]
+UniqueID=E0DBD6F6-E546-4866-ABDB-242302F88271
+Description=Manufacturing
+AllowFabrication=0
+ParameterCount=0
+VariationCount=10
+Variation1=Designator=C?|UniqueId=\AIVRHNLP|Kind=1|AlternatePart= 
+Variation2=Designator=C?|UniqueId=\FXRKHGIN|Kind=1|AlternatePart= 
+Variation3=Designator=C?|UniqueId=\CKUWGPBA|Kind=1|AlternatePart= 
+Variation4=Designator=C?|UniqueId=\KRWIWBWE|Kind=1|AlternatePart= 
+Variation5=Designator=R?|UniqueId=\SCFUJMWT|Kind=1|AlternatePart= 
+Variation6=Designator=R?|UniqueId=\AIVCTYSJ|Kind=1|AlternatePart= 
+Variation7=Designator=R?|UniqueId=\MWHZGYKK|Kind=1|AlternatePart= 
+Variation8=Designator=R?|UniqueId=\KREDUBSO|Kind=1|AlternatePart= 
+Variation9=Designator=R?|UniqueId=\FIWDPVOC|Kind=1|AlternatePart= 
+Variation10=Designator=R?|UniqueId=\GISLNFBU|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Configuration1]
 Name=Sources
