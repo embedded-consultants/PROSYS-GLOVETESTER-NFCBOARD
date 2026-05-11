@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\silardgal\Documents\Development\PROSYS-GLOVETESTER-NFCBOARD\GLOVETESTER-NFCBOARD\Pcb\NFC.PcbDoc
+PCB File : D:\Projects\PROSYS-GLOVETESTER-NFCBOARD\GLOVETESTER-NFCBOARD\Pcb\NFC.PcbDoc
 Date     : 5/11/2026
-Time     : 10:18:22 PM
+Time     : 11:57:24 PM
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
 Rule Violations :0
@@ -49,15 +49,12 @@ Processing Rule : Net Antennae (Tolerance=0mm) (Not (InNet('GND') AND IsVia))
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (0.385mm < 0.5mm) Between Board Edge And Pad J11-11(3.035mm,2.45mm) on Bottom Layer 
-   Violation between Board Outline Clearance(Outline Edge): (0.385mm < 0.5mm) Between Board Edge And Pad J11-12(3.035mm,25.55mm) on Bottom Layer 
-   Violation between Board Outline Clearance(Outline Edge): (0.465mm < 0.5mm) Between Board Edge And Track (0.515mm,3.5mm)(0.515mm,24.5mm) on Bottom Overlay 
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 3
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:01
