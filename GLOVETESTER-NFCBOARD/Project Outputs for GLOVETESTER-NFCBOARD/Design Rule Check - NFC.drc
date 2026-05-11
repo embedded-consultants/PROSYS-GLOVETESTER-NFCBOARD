@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\PROSYS-GLOVETESTER-NFCBOARD\GLOVETESTER-NFCBOARD\Pcb\NFC.PcbDoc
 Date     : 5/11/2026
-Time     : 9:11:58 PM
+Time     : 9:32:19 PM
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
 Rule Violations :0
@@ -40,17 +40,18 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad C22-1(21.7mm,26.3mm) on Top Layer And Text "C22" (21.768mm,25.915mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad C22-2(23.7mm,26.3mm) on Top Layer And Text "C22" (21.768mm,25.915mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad C23-1(21.7mm,24.522mm) on Top Layer And Text "C23" (21.764mm,24.138mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad C23-2(23.7mm,24.522mm) on Top Layer And Text "C23" (21.764mm,24.138mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-Rule Violations :0
+   Violation between Net Antennae: Via (10.595mm,11.779mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (10.595mm,13.779mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (10.595mm,15.779mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (10.595mm,7.779mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (10.595mm,9.779mm) from Top Layer to Bottom Layer 
+Rule Violations :5
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.385mm < 0.5mm) Between Board Edge And Pad J11-11(3.035mm,2.45mm) on Bottom Layer 
@@ -62,6 +63,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm)
 Rule Violations :0
 
 
-Violations Detected : 7
+Violations Detected : 8
 Waived Violations : 0
 Time Elapsed        : 00:00:01
