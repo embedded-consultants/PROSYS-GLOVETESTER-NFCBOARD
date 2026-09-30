@@ -116,12 +116,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UVLNSACA
 
+[Document5]
+DocumentPath=push-to-aisler-odb.Outjob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=GLOVETESTER-NFCBOARD.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=E0DBD6F6-E546-4866-ABDB-242302F88271
 Description=Manufacturing
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
+VariationCount=12
 Variation1=Designator=C?|UniqueId=\AIVRHNLP|Kind=1|AlternatePart= 
 Variation2=Designator=C?|UniqueId=\FXRKHGIN|Kind=1|AlternatePart= 
 Variation3=Designator=C?|UniqueId=\CKUWGPBA|Kind=1|AlternatePart= 
@@ -132,9 +166,15 @@ Variation7=Designator=R?|UniqueId=\MWHZGYKK|Kind=1|AlternatePart=
 Variation8=Designator=R?|UniqueId=\KREDUBSO|Kind=1|AlternatePart= 
 Variation9=Designator=R?|UniqueId=\FIWDPVOC|Kind=1|AlternatePart= 
 Variation10=Designator=R?|UniqueId=\GISLNFBU|Kind=1|AlternatePart= 
+Variation11=Designator=R20|UniqueId=\ANSJWPVV|Kind=1|AlternatePart= 
+Variation12=Designator=R22|UniqueId=\NZJOQFUZ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for GLOVETESTER-NFCBOARD\BOM\Bill of Materials-GLOVETESTER-NFCBOARD(Manufacturing).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for GLOVETESTER-NFCBOARD\Design Rule Check - NFC.html
 DItemRevisionGUID=
 
