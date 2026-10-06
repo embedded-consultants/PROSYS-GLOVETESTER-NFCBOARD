@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\Users\silardgal\Documents\Development\PROSYS-GLOVETESTER-NFCBOARD\GLOVETESTER-NFCBOARD\Project Outputs for GLOVETESTER-MAINBOARD\Pick Place\Pick Place for NFC(Manufacturing).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/10/26
+Time:       08:23
+Revision:   8655e9087871344f2e2dad9e2630d792fb1cd9f3
+Variant:    Manufacturing
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"L3","3.9uH 3.7A","TopLayer","IFSC2020DZER3R9N01","42.9000mm","9.1000mm","0","Power Inductors - SMD 3.9UH 3.7A 35 MOHM SMD"
+"U3","AP63203WU-7","TopLayer","TSOT-26-6","38.3000mm","7.4000mm","0","Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K 3V3 OUT"
+"C27","22u 10V","TopLayer","CAPC3216X18N_MURATA_GCM","43.0000mm","5.1000mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 22 uF 10 VDC 10% 1206 X7R AEC-Q200"
+"C26","22u 10V","TopLayer","CAPC3216X18N_MURATA_GCM","43.0000mm","2.6000mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 22 uF 10 VDC 10% 1206 X7R AEC-Q200"
+"C25","1uF 50V","TopLayer","CAPC1005X05N_MURATA_GRM","38.3000mm","5.1500mm","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 1 uF 50 VDC 10% 0402 X5R"
+"C24","100nF 50V","TopLayer","CAPC1005X05N_MURATA_GCM","39.4000mm","10.1000mm","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200"
+"J1","1770940","BottomLayer","1770940","5.6501mm","11.5000mm","90","Fixed Terminal Blocks PTSM 0,5/ 8-2,5-H THR R32"
+"U1","PN7160A1HN/C100E","TopLayer","QFN50P600X600X100-41N-D","28.9500mm","21.6000mm","180","NFC/RFID Tags & Transponders NFC Plug and Play Controller with Integrated Firmware and NCI Interface"
+"Y1","27.120MHz Crystal","TopLayer","ABM3B","20.9825mm","13.7000mm","90","Crystals 27.12 MHZ 10PF 10PPM -40+85C"
+"U2","NFC ANTENNA 46x27 4 TURN","TopLayer","NFC_ANTENNA_46x27_4TURN","20.2493mm","34.5983mm","0","NFC ANTENNA 46x27 4 TURN"
+"TP7","Test Point 1mm","TopLayer","Test_Point_1mm","30.6900mm","16.3000mm","90","Test Point 1mm"
+"TP6","Test Point 1mm","TopLayer","Test_Point_1mm","34.8900mm","17.8000mm","90","Test Point 1mm"
+"TP5","Test Point 1mm","TopLayer","Test_Point_1mm","19.5020mm","22.7330mm","90","Test Point 1mm"
+"TP4","Test Point 1mm","TopLayer","Test_Point_1mm","19.5020mm","24.3840mm","90","Test Point 1mm"
+"TP3","Test Point 1mm","TopLayer","Test_Point_1mm","19.5020mm","26.0350mm","90","Test Point 1mm"
+"TP2","Test Point 1mm","TopLayer","Test_Point_1mm","32.7900mm","16.3000mm","90","Test Point 1mm"
+"TP1","Test Point 1mm","TopLayer","Test_Point_1mm","28.5900mm","16.3000mm","90","Test Point 1mm"
+"R25","10k 1%","TopLayer","RESC1005X04N_YAGEO_RC","34.8000mm","19.3800mm","180","Thick Film Resistors - SMD General Purpose Chip Resistor 0402, 10kOhms, 1%, 1/16W"
+"R18","0R","TopLayer","RESC1005X04N_YAGEO_RC","28.2500mm","31.1750mm","90","Thick Film Resistors - SMD General Purpose Chip Resistor 0402, 0Ohms, 1%, 1/16W"
+"R15","2K2 1%","TopLayer","RESC1005X04N_YAGEO_RC","27.7500mm","29.6000mm","0","Thick Film Resistors - SMD General Purpose Chip Resistor 0402, 2.2kOhms, 5%, 1/16W"
+"R10","3R32 1%","TopLayer","RESC1005X04N_YAGEO_RC","27.7500mm","32.7475mm","180","Thick Film Resistors - SMD General Purpose Chip Resistor 0402, 3.32Ohms, 1%, 1/16W"
+"R7","3R32 1%","TopLayer","RESC1005X04N_YAGEO_RC","19.7500mm","32.7475mm","0","Thick Film Resistors - SMD General Purpose Chip Resistor 0402, 3.32Ohms, 1%, 1/16W"
+"R2","2K2 1%","TopLayer","RESC1005X04N_YAGEO_RC","19.7500mm","29.6000mm","0","Thick Film Resistors - SMD General Purpose Chip Resistor 0402, 2.2kOhms, 5%, 1/16W"
+"R1","0R","TopLayer","RESC1005X04N_YAGEO_RC","19.2500mm","31.1750mm","90","Thick Film Resistors - SMD General Purpose Chip Resistor 0402, 0Ohms, 1%, 1/16W"
+"L2","160nH 1A","TopLayer","LQW18","25.7500mm","28.7000mm","90","RF Inductors - SMD 160nH 1000mA AEC-Q200"
+"L1","160nH 1A","TopLayer","LQW18","21.7500mm","28.7000mm","90","RF Inductors - SMD 160nH 1000mA AEC-Q200"
+"C23","2u2 50V","TopLayer","CAPC1608X08N_MURATA_GRT","22.7000mm","24.5220mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2 uF 50 VDC 10% 0603 X5R AEC-Q200"
+"C22","2u2 50V","TopLayer","CAPC1608X08N_MURATA_GRT","22.7000mm","26.3000mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2 uF 50 VDC 10% 0603 X5R AEC-Q200"
+"C21","100nF 50V","TopLayer","CAPC1005X05N_MURATA_GCM","28.2000mm","26.3500mm","270","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200"
+"C20","2u2 50V","TopLayer","CAPC1608X08N_MURATA_GRT","26.7000mm","15.4940mm","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2 uF 50 VDC 10% 0603 X5R AEC-Q200"
+"C19","2u2 50V","TopLayer","CAPC1608X08N_MURATA_GRT","21.8770mm","21.1360mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2 uF 50 VDC 10% 0603 X5R AEC-Q200"
+"C18","1n 50V","TopLayer","CAPC1005X05N_MURATA_GCM","27.7750mm","28.6400mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 1000 pF 50 VDC 2% 0402 C0G (NP0) AEC-Q200"
+"C16","68p 1%","TopLayer","CAPC1005X05N_MURATA_GCM","26.2500mm","31.2000mm","270","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 100VDC 68pF 5% C0G AEC-Q200"
+"C14","68p 1%","TopLayer","CAPC1005X05N_MURATA_GCM","24.7500mm","32.7000mm","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 100VDC 68pF 5% C0G AEC-Q200"
+"C13","330p 1%","TopLayer","CAPC1005X05N_MURATA_GCM","24.7500mm","30.7000mm","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 100VDC 330pF 5% C0G AEC-Q200"
+"C12","10pF 50V","TopLayer","CAPC1005X05N_MURATA_GRM","18.1825mm","16.1000mm","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 pF 50 VDC 2% 0402 C0G (NP0)"
+"C10","68p 1%","TopLayer","CAPC1005X05N_MURATA_GCM","22.7500mm","32.7000mm","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 100VDC 68pF 5% C0G AEC-Q200"
+"C9","330p 1%","TopLayer","CAPC1005X05N_MURATA_GCM","22.7500mm","30.7000mm","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 100VDC 330pF 5% C0G AEC-Q200"
+"C8","68p 1%","TopLayer","CAPC1005X05N_MURATA_GCM","21.2500mm","31.2000mm","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 100VDC 68pF 5% C0G AEC-Q200"
+"C6","1n 50V","TopLayer","CAPC1005X05N_MURATA_GCM","19.7250mm","28.6400mm","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 1000 pF 50 VDC 2% 0402 C0G (NP0) AEC-Q200"
+"C5","10pF 50V","TopLayer","CAPC1005X05N_MURATA_GRM","23.7825mm","11.3000mm","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 pF 50 VDC 2% 0402 C0G (NP0)"
+"C4","1uF 50V","TopLayer","CAPC1005X05N_MURATA_GRM","35.2750mm","22.8750mm","270","Multilayer Ceramic Capacitors MLCC - SMD/SMT 1 uF 50 VDC 10% 0402 X5R"
+"C3","4u7 6V3","TopLayer","CAPC1005X05N_MURATA_GRT","32.3900mm","28.3000mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7 uF 6.3 VDC 20% 0402 X6S AEC-Q200"
+"C2","100nF 50V","TopLayer","CAPC1005X05N_MURATA_GCM","20.8610mm","19.7690mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200"
+"C1","4u7 6V3","TopLayer","CAPC1005X05N_MURATA_GRT","32.3900mm","27.3000mm","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7 uF 6.3 VDC 20% 0402 X6S AEC-Q200"
